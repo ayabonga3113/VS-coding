@@ -1,0 +1,144 @@
+            static void bubbleSort(List<carClass> carInfo)
+            {
+                carClass[] carArray = carInfo.ToArray();
+
+
+
+                int temp = 0;
+
+                for (int write = 0; write < carArray.Length; write++)
+                {
+                    for (int sort = 0; sort < carArray.Length - 1; sort++)
+                    {
+                        if (carArray[sort] > carArray[sort + 1])
+                        {
+                            temp = carArray[sort + 1];
+                        carArray[sort + 1] = carArray[sort];
+                        carArray[sort] = temp;
+                        }
+                    }
+                    Console.Write("{0} ", carArray[write]);
+                }
+            }
+            static void selectionSort(List<carClass> carInfo)
+        { }
+            static void insertionSortList(List<carClass> carInfo)
+            { }
+
+
+
+
+
+//menu while loop
+ int menu = 0;
+                while (menu != 7)
+                {
+                    Mainmenu();
+                    menu = Convert.ToInt32(Console.ReadLine());
+                    switch (menu)
+                    {
+                        case 1:
+                           
+                            break;
+                        case 2:
+                            for (int i = 0; i < garage.Count; i++)
+                            { Console.WriteLine(garage[i]); }
+                            break;
+                        case 3:
+                            Console.WriteLine("There are " + garage.Count + " in the list.");
+                            break;
+                        case 4:
+                        
+                            break;
+                        case 5:
+                         
+                            break;
+                        case 6:
+                           
+                            break;
+
+                    }
+
+                }
+
+
+           
+                Console.WriteLine("Choose menu Item :");
+                Console.WriteLine("1. Add car");
+                Console.WriteLine("2. view garage");
+                Console.WriteLine("3. update list");
+                Console.WriteLine("4. sort by register number");
+                Console.WriteLine("5. sort name");
+                Console.WriteLine("6. sort by daily price");
+            Console.WriteLine("7. sell car");
+            Console.WriteLine("8. display available car");
+            Console.WriteLine("9. find a car");
+            Console.WriteLine("10 to quit app");
+
+//Carpool
+
+    class carPool
+    {
+
+       public static void streamread(List<carClass> carInfo)
+        {
+            string[] fields;
+            const Char DELIM = ',';
+            string inputline, surname, initial;
+            int patientNo;
+            double balance;
+            StreamReader SR = new StreamReader("patientinfo.dat");
+            inputline = SR.ReadLine();
+            while (inputline != null)
+            {
+
+                fields = inputline.Split(separator: DELIM);
+                patientNo = Convert.ToInt32(fields[0]);
+                surname = fields[1];
+                initial = fields[2];
+                balance = Convert.ToDouble(fields[3]);
+                carClass patient = new carClass(patientNo, surname, initial, balance);
+                carInfo.Add(patient);
+                inputline = SR.ReadLine();
+            }
+            SR.Close();
+
+        }
+        public static void carAdd(List<carClass> carInfo)
+        {
+            string surname, initial;
+            int patientNo;
+            double balance;
+            Console.Write("Enter cars registor number :   ");
+            patientNo = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Enter cars name :   ");
+            surname = Console.ReadLine();
+           
+            Console.Write("Enter car price:  ");
+            balance = Convert.ToDouble(Console.ReadLine());
+            carClass patient = new carClass(patientNo, surname, initial, balance);
+            carInfo.Add(patient);
+        }
+
+    }
+
+
+
+
+
+//check list
+-read ;=
+-write=
+-add;=
+-sell=
+-get----------
+-displayall-----------
+-display avail;=
+-availibilty;---------
+-bubble;=
+-insert=
+-select;=
+-swap;=
+binaryname-----------
+-linearname------------
+-find=

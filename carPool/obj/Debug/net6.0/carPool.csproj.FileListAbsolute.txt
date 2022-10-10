@@ -1,0 +1,15 @@
+C:\Users\s225175614\Documents\carPool\bin\Debug\net6.0\carPool.exe
+C:\Users\s225175614\Documents\carPool\bin\Debug\net6.0\carPool.deps.json
+C:\Users\s225175614\Documents\carPool\bin\Debug\net6.0\carPool.runtimeconfig.json
+C:\Users\s225175614\Documents\carPool\bin\Debug\net6.0\carPool.dll
+C:\Users\s225175614\Documents\carPool\bin\Debug\net6.0\carPool.pdb
+C:\Users\s225175614\Documents\carPool\obj\Debug\net6.0\carPool.csproj.AssemblyReference.cache
+C:\Users\s225175614\Documents\carPool\obj\Debug\net6.0\carPool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s225175614\Documents\carPool\obj\Debug\net6.0\carPool.AssemblyInfoInputs.cache
+C:\Users\s225175614\Documents\carPool\obj\Debug\net6.0\carPool.AssemblyInfo.cs
+C:\Users\s225175614\Documents\carPool\obj\Debug\net6.0\carPool.csproj.CoreCompileInputs.cache
+C:\Users\s225175614\Documents\carPool\obj\Debug\net6.0\carPool.dll
+C:\Users\s225175614\Documents\carPool\obj\Debug\net6.0\refint\carPool.dll
+C:\Users\s225175614\Documents\carPool\obj\Debug\net6.0\carPool.pdb
+C:\Users\s225175614\Documents\carPool\obj\Debug\net6.0\carPool.genruntimeconfig.cache
+C:\Users\s225175614\Documents\carPool\obj\Debug\net6.0\ref\carPool.dll
