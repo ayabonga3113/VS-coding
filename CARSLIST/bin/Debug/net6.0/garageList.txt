@@ -1,0 +1,7 @@
+GHT 453 EC,Polo,2012,Blue,71250,available
+JKX 671 EC,Polo,2014,White,120000,available
+BHG 499 EC,Ranger,2011,Silver,95000,available
+BDF 852 EC,Figo,2007,Green,19500,available
+CBV 120 EC,Fiesta,2008,Silver,18500,sold
+HFF 123 EC,Yaris,2009,Grey,30000,available
+CDG 875 EC,Duster,2019,White,250000,available

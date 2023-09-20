@@ -1,0 +1,15 @@
+C:\Users\kemes\Documents\WRAV101\CARSLIST\bin\Debug\net6.0\CARSLIST.exe
+C:\Users\kemes\Documents\WRAV101\CARSLIST\bin\Debug\net6.0\CARSLIST.deps.json
+C:\Users\kemes\Documents\WRAV101\CARSLIST\bin\Debug\net6.0\CARSLIST.runtimeconfig.json
+C:\Users\kemes\Documents\WRAV101\CARSLIST\bin\Debug\net6.0\CARSLIST.dll
+C:\Users\kemes\Documents\WRAV101\CARSLIST\bin\Debug\net6.0\CARSLIST.pdb
+C:\Users\kemes\Documents\WRAV101\CARSLIST\obj\Debug\net6.0\CARSLIST.csproj.AssemblyReference.cache
+C:\Users\kemes\Documents\WRAV101\CARSLIST\obj\Debug\net6.0\CARSLIST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemes\Documents\WRAV101\CARSLIST\obj\Debug\net6.0\CARSLIST.AssemblyInfoInputs.cache
+C:\Users\kemes\Documents\WRAV101\CARSLIST\obj\Debug\net6.0\CARSLIST.AssemblyInfo.cs
+C:\Users\kemes\Documents\WRAV101\CARSLIST\obj\Debug\net6.0\CARSLIST.csproj.CoreCompileInputs.cache
+C:\Users\kemes\Documents\WRAV101\CARSLIST\obj\Debug\net6.0\CARSLIST.dll
+C:\Users\kemes\Documents\WRAV101\CARSLIST\obj\Debug\net6.0\refint\CARSLIST.dll
+C:\Users\kemes\Documents\WRAV101\CARSLIST\obj\Debug\net6.0\CARSLIST.pdb
+C:\Users\kemes\Documents\WRAV101\CARSLIST\obj\Debug\net6.0\CARSLIST.genruntimeconfig.cache
+C:\Users\kemes\Documents\WRAV101\CARSLIST\obj\Debug\net6.0\ref\CARSLIST.dll
